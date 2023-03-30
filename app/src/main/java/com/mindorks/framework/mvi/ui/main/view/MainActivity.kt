@@ -1,4 +1,4 @@
-package com.mindorks.framework.mvi.ui.main
+package com.mindorks.framework.mvi.ui.main.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

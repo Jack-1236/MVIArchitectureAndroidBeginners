@@ -1,4 +1,6 @@
 package com.mindorks.framework.mvi.ui.main.intent
 
-class MainIntent {
+sealed class MainIntent {
+    object FetchUser:MainIntent()
+
 }
